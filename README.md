@@ -1,7 +1,7 @@
 # Render Burst - Batch Rendering Add-on for Blender 2.8 and 2.79
 
 Render all cameras, one by one, and store the results. <br />
-**Note: Blender 2.8 is supported! There are 2 versions, one for 2.8 and the other for 2.79. Doesn’t support animation yet.**
+**Note: Blender 2.8x and 2.9x is supported!
 
 Authors: Aidy Burrows, Gleb Alexandrov, Roman Alexandrov<br />
 
@@ -10,17 +10,13 @@ Authors: Aidy Burrows, Gleb Alexandrov, Roman Alexandrov<br />
 
 ## How to Install the Add-on, step-by-step
 
-1. Download **[the archive with RenderBurst and Project Files](https://github.com/VertStretch/RenderBurst/archive/master.zip)**
+1. Launch Blender! :) Go Edit > User Preferences > Add-ons
 
-2. Unpack it
-
-3. Launch Blender! :) Go Edit > User Preferences > Add-ons
-
-4. Press the Install Add-on from File Button
+2. Press the Install Add-on from File Button
 
 ![Imgur](https://i.imgur.com/lzxrXq6.png)
 
-5. Navigate to the folder with the **RenderBurst.py** file, select it and click Install Add-on from File.<br />
+3. Navigate to the folder with the **RenderBurst.py** file, select it and click Install Add-on from File.<br />
 
 You should now see a new tab in the right toolshelf, called Render Burst. 
 

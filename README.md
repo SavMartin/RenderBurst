@@ -7,24 +7,6 @@ Authors: Aidy Burrows, Gleb Alexandrov, Roman Alexandrov<br />
 
 ![Imgur](https://i.imgur.com/VoyEm7D.jpg)
 
-
-## How to Install the Add-on, step-by-step
-
-1. Launch Blender! :) Go Edit > User Preferences > Add-ons
-
-2. Press the Install Add-on from File Button
-
-![Imgur](https://i.imgur.com/lzxrXq6.png)
-
-3. Navigate to the folder with the **RenderBurst.py** file, select it and click Install Add-on from File.<br />
-
-You should now see a new tab in the right toolshelf, called Render Burst. 
-
-![Imgur](https://i.imgur.com/UwBMOlq.png)
-
-Congrats!<br />
-
-
 ## How to Use Render Burst
 
 Select the mode (All Cameras or Selected) and hit **RENDER!** Simple, right? :)
